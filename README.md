@@ -23,19 +23,11 @@ Dataset
   - `Dense(10, activation='softmax')`
 
 
- 🚀 How to Run
+  How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/mnist-cnn-classifier.git
-   cd mnist-cnn-classifier
-````
-
-2. Launch Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
+1. Clone the repository.
+   
+2. Launch Jupyter Notebook.
 
 3. Run the `CNN.ipynb` file cell by cell.
 
